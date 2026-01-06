@@ -10,4 +10,7 @@ git push -u origin main
 **** Push an existing repository from the command line:
 git remote add origin https://github.com/SikderMdSharifulIslam/test.git
 git branch -M main
-git push -u origin main 
+git push -u origin main  
+
+
+note: username & email deyar por (git config --global --list) ei command diye check kora jabe j thik moto nise kina.
