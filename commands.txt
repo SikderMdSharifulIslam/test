@@ -13,4 +13,6 @@ git branch -M main
 git push -u origin main  
 
 
-note: username & email deyar por (git config --global --list) ei command diye check kora jabe j thik moto nise kina.
+note: 
+1. username & email deyar por (git config --global --list) ei command diye check kora jabe j thik moto nise kina.
+2. (git remote -v) ei command diye check korte parbo amra kon repository te achi akn
