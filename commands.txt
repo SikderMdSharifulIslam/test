@@ -20,3 +20,5 @@ note:
 git add .
 git commit -m "meaningful message"
 git push
+
+4. kaj korar time e always akta portion er kaj sesh hole commit kore push kore github e rakhte hobe to avoid unwanted situations.
